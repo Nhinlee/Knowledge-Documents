@@ -21,6 +21,7 @@
     - DataStore
     - WorkManager
 - App navigation
+- Room
 
 ## Important concepts
 - Background tasks
