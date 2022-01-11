@@ -10,6 +10,11 @@
 - Intent & Intent filter
 - Permissions
 
+## 3-tier Architectures
+- Repository pattern / Data access layer
+- Domain (business) layer
+- Presentation layer
+
 ## App Architectures
 - Guild to app architecture (overviews)
 - UI layer libraries
@@ -31,12 +36,6 @@
 - Unit test
 - Integration test
 - E2E test - **Appium test**
-
-## 3-tier Architectures
-- Repository pattern / Data access layer
-- Domain (business) layer
-- Presentation layer
-
 
 ## How to process training
 - Build shortly documents (md) for what you understand - Tips: What/When&Why/How format
