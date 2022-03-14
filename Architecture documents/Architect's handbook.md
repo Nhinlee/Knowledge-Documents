@@ -6,14 +6,14 @@
 - ***A top-down approach*** starts with the entire system at the highest level, and then a process of decomposition begins to work downward toward more detail. The starting point is the highest level of abstraction. As decomposition progresses, the design becomes more detailed, until the component level is reached.
 - ***The bottom-up approach*** begins with the components that are needed for the solution, and then the design works upward into higher levels of abstraction. Various components can then be used together, like building blocks, to create other components and eventually larger structures. The process continues until all the requirements have been met.
 
-##### when use top-down approach
+#### when use top-down approach
 - The project is large in size
 - The project is complex
 - Enterprise software is being designed for an organization
 - The team is large, or there are multiple teams that will be working on the project
 - The domain is well-understood
 
-##### when use top-down approach
+#### when use bottom-up approach
 - The project is small in size
 - The project is not very complex
 - Enterprise software for an organization is not being designed The team is small, or there is only a single team
