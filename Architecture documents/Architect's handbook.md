@@ -23,3 +23,21 @@
 ### Greenfield versus brownfield software systems
 - ***A greenfield software system*** is a completely new software application.
 - ***A brownfield software system*** is an existing software system.
+
+## Chapter 6: Software development principles and practices
+
+### Designing orthogonal software systems
+
+#### Loose coupling
+- Coupling is the degree to which a software module depends on another software module.
+- Software modules that are tightly coupled are more complex, which decreases their maintainability.
+- It is also easy to engage in parallel development if the code is loosely coupled.
+- Types of coupling
+  - **Content coupling:** one module directly references the internal or private information in another module.
+  - **Common coupling:** share the same global data, such as a global variable.
+  - **External coupling:** multiple modules share the same part of an environment that is external to the software.
+  - **Control coupling**
+  - **Stamp coupling (data-structured coupling)**
+  - **Data coupling**
+  - **Message coupling**
+  - **No coupling**
