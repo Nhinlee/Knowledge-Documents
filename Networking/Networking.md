@@ -12,3 +12,5 @@
 | Spreading rate    | Moderate                                                                                                                     | Fast                                                           | Slow                                                                                                                 |
 | Main objective    | Modify the information                                                                                                       | Eat the system resources                                       | Steal the information                                                                                                |
 | Executed via      | Executable files                                                                                                             | Weaknesses in system                                           | Through a program and interprets as utility software                                                                 |
+
+ref: [Different between virus, worm, and trojan](https://www.geeksforgeeks.org/difference-between-virus-worm-and-trojan-horse/)
