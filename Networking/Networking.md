@@ -1,3 +1,8 @@
+# Internet Introduction
+- **Internet là một mạng các hệ cuối(host / end system) kết nối hàng trăm triệu thiết bị tính toán khắp nơi trên thế giới.**
+- Cách các gói tin được chuyền qua internet
+  ![](https://www.totolink.vn/public/uploads/img_article/mohinhtcpiplagichucnangcuacactangtrongmohinhtcpip4.png)
+
 # IOS Model: The 7 layers of Network Architecture
 
 ![](https://s7280.pcdn.co/wp-content/uploads/2018/06/osi-model-7-layers-1.png)
@@ -14,3 +19,4 @@
 | Executed via      | Executable files                                                                                                             | Weaknesses in system                                           | Through a program and interprets as utility software                                                                 |
 
 ref: [Different between virus, worm, and trojan](https://www.geeksforgeeks.org/difference-between-virus-worm-and-trojan-horse/)
+
