@@ -5,6 +5,9 @@
 
 ![](./images/7-layers.jpeg)
 
+# What is a network protocol?
+- **In networking, a protocol is a set of rules for formatting and processing data.Enables hosts to communicate with each other.**
+
 # IOS Model: The 7 layers of Network Architecture
 
 ![](https://s7280.pcdn.co/wp-content/uploads/2018/06/osi-model-7-layers-1.png)
