@@ -1,6 +1,7 @@
 # Internet Introduction
 - **Internet là một mạng các hệ cuối(host / end system) kết nối hàng trăm triệu thiết bị tính toán khắp nơi trên thế giới.**
-- Cách các gói tin được chuyền qua internet
+
+# Cách các gói tin được chuyền qua internet
   ![](https://www.totolink.vn/public/uploads/img_article/mohinhtcpiplagichucnangcuacactangtrongmohinhtcpip4.png)
 
 # IOS Model: The 7 layers of Network Architecture
