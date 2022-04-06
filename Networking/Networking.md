@@ -3,7 +3,7 @@
 
 # Cách các gói tin được chuyền qua internet
 
-![](https://www.totolink.vn/public/uploads/img_article/mohinhtcpiplagichucnangcuacactangtrongmohinhtcpip4.png)
+![](./images/7-layers.jpeg)
 
 # IOS Model: The 7 layers of Network Architecture
 
