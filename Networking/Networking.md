@@ -25,3 +25,18 @@
 
 ref: [Different between virus, worm, and trojan](https://www.geeksforgeeks.org/difference-between-virus-worm-and-trojan-horse/)
 
+
+# Access network technics
+
+- Dial-up (Quay số)
+- DSL (digital subscriber line)
+- Cable (Cáp)
+- FTTH (Fiber-To-The-Home) (Cáp quang)
+- Ethernet
+- Wifi
+- WiMax
+
+
+# Circuit switching vs Package switching
+
+[Circuit switching vs Package switching](./circuit-vs-packet-switching.md)
