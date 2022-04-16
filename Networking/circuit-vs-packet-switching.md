@@ -40,11 +40,11 @@
 - If the network becomes overloaded, packets are delayed or discarded, or dropped. This leads to the retransmission of lost packets by the sender.
 - It is not secured if security protocols are not used during packet transmission.
 
-|                                      Circuit Switching                                      |                                        Packet Switching                                       |   |   |   |
-|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|---|---|---|
-| Circuit switching requires a dedicated path before sending data from source to destination. | Packet switching does not require any dedicated path to send data from source to destination. |   |   |   |
-| It reserves the entire bandwidth in advance.                                                | It does not reserve bandwidth in advance                                                      |   |   |   |
-| No store and forward transmission                                                           | It supports store and forward transmission                                                    |   |   |   |
-| Each packet follows the same route                                                          | A packet can follow any route                                                                 |   |   |   |
-| Call setup is required                                                                      | No call setup is required                                                                     |   |   |   |
-| Bandwidth wastage                                                                           | No bandwidth wastage                                                                          |   |   |   |
+|                                      Circuit Switching                                      |                                        Packet Switching                                       |
+|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
+| Circuit switching requires a dedicated path before sending data from source to destination. | Packet switching does not require any dedicated path to send data from source to destination. |
+| It reserves the entire bandwidth in advance.                                                | It does not reserve bandwidth in advance                                                      |
+| No store and forward transmission                                                           | It supports store and forward transmission                                                    |
+| Each packet follows the same route                                                          | A packet can follow any route                                                                 |
+| Call setup is required                                                                      | No call setup is required                                                                     |
+| Bandwidth wastage                                                                           | No bandwidth wastage                                                                          |
