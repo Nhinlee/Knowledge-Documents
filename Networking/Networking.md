@@ -40,3 +40,13 @@ ref: [Different between virus, worm, and trojan](https://www.geeksforgeeks.org/d
 # Circuit switching vs Package switching
 
 [Circuit switching vs Package switching](./circuit-vs-packet-switching.md)
+
+# Độ trễ gói tin / package delay
+
+![](images/package-delay.jpeg)
+
+Các loại độ trễ:
+- **Processing delay** (Thời gian xử lý tại nút)
+- **Queuing delay** (Độ trễ do xếp hàng)
+- **Transmission delay** (Thời gian đẩy gói tin lên đường truyền)
+- **Propagation delay** (Thời gian lan truyền)
