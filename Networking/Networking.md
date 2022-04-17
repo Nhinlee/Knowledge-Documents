@@ -7,6 +7,7 @@
 
 # What is a network protocol?
 - **In networking, a protocol is a set of rules for formatting and processing data.Enables hosts to communicate with each other.**
+- Giao thức định nghĩa **khuôn dạng và thứ tự** các thông điệp được trao đổi giữa 2 hoặc nhiều thực thể truyền thông, cũng như **những hành động cần được thực hiện** khi truyền, nhận thông điệp hoặc khi có một sự kiện khác xãy ra.
 
 # IOS Model: The 7 layers of Network Architecture
 
