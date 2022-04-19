@@ -53,3 +53,8 @@ ref: [Different between virus, worm, and trojan](https://www.geeksforgeeks.org/d
 - **Propagation delay** (Thời gian lan truyền)
 
 ### Hiện tượng mất gói tin: **Queue overflow**
+
+
+# Socket 
+
+[Socket](socket.md)
