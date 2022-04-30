@@ -9,7 +9,7 @@
 - **In networking, a protocol is a set of rules for formatting and processing data.Enables hosts to communicate with each other.**
 - Giao thức định nghĩa **khuôn dạng và thứ tự** các thông điệp được trao đổi giữa 2 hoặc nhiều thực thể truyền thông, cũng như **những hành động cần được thực hiện** khi truyền, nhận thông điệp hoặc khi có một sự kiện khác xãy ra.
 
-# IOS Model: The 7 layers of Network Architecture
+# OSI Model: The 7 layers of Network Architecture
 
 ![](https://s7280.pcdn.co/wp-content/uploads/2018/06/osi-model-7-layers-1.png)
 
