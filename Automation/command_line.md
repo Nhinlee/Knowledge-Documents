@@ -13,3 +13,6 @@
 
 ## View & Changing The File System
 [cheat sheet](./view_changing_file_system.pdf)
+
+## Redirecting The Input & Output
+[cheat sheet](./redirecting_input_output.pdf)
