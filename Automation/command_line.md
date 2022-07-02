@@ -10,3 +10,6 @@
 
 ## Navigating The File System
 [cheat sheet](./nav_file_system.pdf)
+
+## Changing The File System
+[cheat sheet](./changing_file_system.pdf)
