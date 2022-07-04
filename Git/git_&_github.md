@@ -14,7 +14,7 @@
 - `git commit` permanently stores file changes from the staging area in the repository
 - `git log` shows a list of all previous commits
 
-## Important Git Operations
+## How To BackTrack
 - `git checkout HEAD filename`: Discards changes in the working directory.
 - `git reset HEAD filename`: Unstages file changes in the staging area.
 - `git reset commit_SHA`: Resets to a previous commit in your commit history.
