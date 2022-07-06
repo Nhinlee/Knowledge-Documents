@@ -18,3 +18,20 @@
 - `git checkout HEAD filename`: Discards changes in the working directory.
 - `git reset HEAD filename`: Unstages file changes in the staging area.
 - `git reset commit_SHA`: Resets to a previous commit in your commit history.
+- `git stash` & `git stash pop` You’re “stashing” your local work temporarily in order to update a previous commit and later on retrieve your work.
+
+### Handy Git Operations
+
+#### Git Log
+- `git log --oneline` shows the list of commits in one line format.
+- `git log -S "keyword"` displays a list of commits that contain the keyword in the message. In the screenshot below, we use `git log -S "Add"` to find any commits with “Add” in the message.
+- `git log --oneline --graph - --graph` Displays a visual representation of how the branches and commits were created in order to help you make sense of your repository history. When used alone, the description can be very lengthy, so you can combine the command with `--oneline` in order to shorten the description.
+
+#### Git commit amend
+- `git commit --amend`
+
+#### Git alias commands
+
+- $ `git config --global alias.co "checkout"`
+- $ `git config --global alias.br "branch"`
+- $ `git config --global alias.glop "log --pretty=format:"%h %s" --graph"`
