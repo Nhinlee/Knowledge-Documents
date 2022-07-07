@@ -9,16 +9,16 @@
 - Open source.
 
 ## Navigating The File System
-[cheat sheet](./nav_file_system.pdf)
+[cheat sheet](./resouces/nav_file_system.pdf)
 
 ## View & Changing The File System
-[cheat sheet](./view_changing_file_system.pdf)
+[cheat sheet](./resouces/view_changing_file_system.pdf)
 
 ## Redirecting The Input & Output
-[cheat sheet](./redirecting_input_output.pdf)
+[cheat sheet](./resouces/redirecting_input_output.pdf)
 
 ## Configuring the Environment
-[cheat sheet](./config_env.pdf)
+[cheat sheet](./resouces/config_env.pdf)
 
 ### PATH
 - **PATH** is an environment variable that stores a list of directories separated by a colon.
