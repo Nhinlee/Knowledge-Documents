@@ -15,7 +15,7 @@
 - exp:
   - `greeting="Hello"`
   - `echo $greeting`
-  
+
 ### Conditionals
   
 - ```
@@ -87,6 +87,7 @@
     read number
     echo "You guessed $number"
   ```
+- [read command](http://linuxcommand.org/lc3_man_pages/readh.html)
 
 2. **Arguments**
 - ```
@@ -113,3 +114,7 @@
       echo $file
     done
   ```
+
+### Handy command
+
+- `head` - [docs](http://www.linfo.org/head.html)
