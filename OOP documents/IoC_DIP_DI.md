@@ -4,7 +4,7 @@ The terms Inversion of Control (IoC), Dependency Inversion Principle (DIP), Depe
 
 ![](https://www.tutorialsteacher.com/Content/images/ioc/principles-and-patterns.png)
 
-# IoC (Inversion of Control)
+# IoC (Inversion of Control) Principle
 
 ### What
 
