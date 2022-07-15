@@ -18,17 +18,17 @@ The terms Inversion of Control (IoC), Dependency Inversion Principle (DIP), Depe
 ### What
 - High-level modules should not depend on low-level modules. Both should depend on the abstraction.
 - Abstractions should not depend on details. Details should depend on abstractions.
-- Types:
-  - Constructor Injection 
-  - Property Injection (Setter)
-  - Method Injection (Implement interface)
-- Exam: [tutorialsteacher.com/ioc/dependency-injection](https://www.tutorialsteacher.com/ioc/dependency-injection)
 
 # DI (Dependency Injection)
 
 ### What
 - A design pattern used to implement IoC.
 - It allows the creation of **dependent objects** **outside of a class** and provides those objects to a class through different ways.
+- Types:
+  - Constructor Injection 
+  - Property Injection (Setter)
+  - Method Injection (Implement interface)
+- Exam: [tutorialsteacher.com/ioc/dependency-injection](https://www.tutorialsteacher.com/ioc/dependency-injection)
 
 # IoC Container / DI Container
 
